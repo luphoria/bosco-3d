@@ -1,4 +1,4 @@
-const CAMERA_VANTAGE = [0, 3, 18];
+var CAMERA_VANTAGE = [0, 3, 18];
 
 class Camera {
     follow_player(player) {
